@@ -77,6 +77,32 @@ Análisis de comportamiento de clientes para **ConnectaTel**, empresa de telecom
 
 ---
 
+## 📊 Tecnologías utilizadas
+
+| Herramienta | Propósito |
+|-------------|-----------|
+| **Python 3.9** | Lenguaje principal |
+| **Pandas** | Manipulación y limpieza de datos |
+| **NumPy** | Operaciones numéricas |
+| **Matplotlib & Seaborn** | Visualizaciones y gráficos |
+| **Jupyter Notebook** | Entorno interactivo de desarrollo |
+
+---
+
+## 👤 Autor
+
+**Análisis ConnectaTel** - Proyecto de análisis de datos para empresa de telecomunicaciones.
+
+📅 *Proyecto completado - Abril 2026*
+
+---
+
+## 📝 Licencia
+
+Este proyecto es de uso educativo y demostrativo.
+
+---
+
 ## 🚀 Cómo ejecutar el notebook
 
 ### Opción 1: Google Colab (Recomendado)
@@ -84,13 +110,17 @@ Análisis de comportamiento de clientes para **ConnectaTel**, empresa de telecom
 
 Haz clic en el badge de arriba para abrir directamente el notebook en Colab.
 
-### Opción 2: Local
+### Opción 2: 
+
+
+### Opción 3: Local
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/ConnectaTel-Analysis.git
+git clone https://github.com/SebastianEEAmayaQuiroz/ConnectaTel-Analysis.git
 
 # Instalar dependencias
 pip install pandas numpy seaborn matplotlib
 
 # Abrir Jupyter Notebook
 jupyter notebook "S7 Version-Estudiante-Project-ConnectaTel.ipynb"
+
