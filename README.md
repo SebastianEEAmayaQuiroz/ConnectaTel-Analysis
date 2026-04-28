@@ -91,6 +91,7 @@ Análisis de comportamiento de clientes para **ConnectaTel**, empresa de telecom
 
 ## 👤 Autor
 
+Sebastian Eliu Ezequiel Amaya Quiroz - Tripleten.
 **Análisis ConnectaTel** - Proyecto de análisis de datos para empresa de telecomunicaciones.
 
 📅 *Proyecto completado - Abril 2026*
