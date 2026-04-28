@@ -3,7 +3,7 @@ Análisis de comportamiento de clientes de telecomunicaciones - Proyecto Connect
 # 📊 ConnectaTel - Análisis de Telecomunicaciones
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-3xISuOlh75It6_VrF5e3pmrrp5aZ3qO?usp=drive_link)
-[![Ver Reporte HTML](https://img.shields.io/badge/Ver-Reporte%20HTML-orange)](./S7%20Version-Estudiante-Project-ConnectaTel.html)
+[![Ver Reporte HTML](https://img.shields.io/badge/Ver-Reporte%20HTML-orange)](https://github.com/SebastianEEAmayaQuiroz/ConnectaTel-Analysis/blob/main/Notebook/Code)
 
 ## 📌 Descripción del Proyecto
 
@@ -110,8 +110,8 @@ Este proyecto es de uso educativo y demostrativo.
 
 Haz clic en el badge de arriba para abrir directamente el notebook en Colab.
 
-### Opción 2: 
-
+### Opción 2: Pagina web
+[![Ver Reporte HTML](https://img.shields.io/badge/Ver-Reporte%20HTML-orange)](https://github.com/SebastianEEAmayaQuiroz/ConnectaTel-Analysis/blob/main/Notebook/Code)
 
 ### Opción 3: Local
 ```bash
